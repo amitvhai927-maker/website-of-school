@@ -1,0 +1,6 @@
+{
+  "name": "Shree Beni Bhola Model Secondary School",
+  "description": "Official website of Shree Beni Bhola Model Secondary School (श्री बेनी भोला नमूना मा.वि.), Godaita-8, Sarlahi, Madhesh Province, Nepal. Established in 2004 B.S. Providing quality education from ECD to Grade 12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
